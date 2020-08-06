@@ -12,6 +12,8 @@
 
 > 8 of the 9 pixels are used to store the character information and the last pixel is used to check weather this is last character of input text.
 
+***
+
 > let [r1, g1, b1], [r2, g2, b2], [r3 ,g3, b3] be the three pixels in which we have to store a character.
 
 > let "a" be the character => ascii value = 65 => binary of 65 = 01000001
@@ -30,13 +32,13 @@
 
 > Continue this process untill we get b3%2 == 0
 
-
+***
 
 > For security purposes, we encrypt the actual text using key and my encryption algorithm.
 
 > So if we use the wromng key we will get garbage values.
 
-
+***
 
 > If we save our text-embedded image into '.jpg' format then the information will be lost due to lossy compression of JPEG.
 
