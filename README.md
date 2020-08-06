@@ -1,8 +1,8 @@
 # Image-Steganography
 
-### Interface....
+## Interface....
 
-![Image stegnography](https://user-images.githubusercontent.com/68480967/89530629-79a0a600-d80c-11ea-899a-84b367a49307.png)
+![Main Interface](https://user-images.githubusercontent.com/68480967/89532737-e4071580-d80f-11ea-94b8-4b5d3d7869e0.jpg)
 
 ### ...
 
